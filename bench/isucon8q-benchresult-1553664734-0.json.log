@@ -1,0 +1,7 @@
+[  info ] [isu8q-bench] 2019/03/27 14:32:14.711007 dataset.go:300: datapath ./data
+[  info ] [isu8q-bench] 2019/03/27 14:32:14.986911 bench.go:590: Remotes []
+[  info ] [isu8q-bench] 2019/03/27 14:32:14.987766 bench.go:437: State.Init()
+[  info ] [isu8q-bench] 2019/03/27 14:32:15.053745 bench.go:439: State.Init() Done
+[  info ] [isu8q-bench] 2019/03/27 14:32:15.053851 bench.go:441: requestInitialize()
+[  info ] [isu8q-bench] 2019/03/27 14:32:15.054311 bench.go:604: {"job_id":"0","ip_addrs":"","pass":false,"score":0,"message":"/initialize へのリクエストに失敗しました。Get http:///initialize: http: no Host in request URL","error":null,"log":null,"load_level":0,"start_time":"2019-03-27T14:32:14.987762902+09:00","end_time":"2019-03-27T14:32:15.054089774+09:00"}
+[  info ] [isu8q-bench] 2019/03/27 14:32:15.054446 bench.go:611: result json saved to  isucon8q-benchresult-1553664734-0.json
